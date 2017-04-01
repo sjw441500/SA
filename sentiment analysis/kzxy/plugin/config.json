@@ -1,0 +1,39 @@
+{
+    "plugin":
+        [
+            {
+                "name": "base_count",
+                "dir": "base_count",
+            },
+            {
+                "name": "cluster_cn",
+                "dir": "cluster_cn",
+            },
+            {
+                "name": "cluster_eg",
+                "dir": "cluster_eg",
+            },
+            {
+                "name": "base_count_eg",
+                "dir": "base_count_eg",
+            }
+            {
+                "name": "emotion_eg",
+                "dir": "emotion_eg",
+            }
+              {
+                "name": "emotion_cn",
+                "dir": "emotion_cn",
+            }
+            {
+                "name": "emotion_eg_year",
+                "dir": "emotion_eg_year",
+            }
+            {
+                "name": "emotion_cn_by_year",
+                "dir": "emotion_cn_by_year",
+            }
+
+
+        ]
+}

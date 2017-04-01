@@ -1,0 +1,4 @@
+{
+    "jar_name": "testplugin.jar",
+    "class_name": "testplugin.Test",
+}
